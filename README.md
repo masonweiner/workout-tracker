@@ -12,7 +12,7 @@
 
 ## Installation
 
-- npm i
+- go to https://floating-ocean-41077.herokuapp.com/?id=60da876b2eeb1d00158d1902 and start using the application!
 
 ## Questions
 
